@@ -2,7 +2,7 @@
 
 Set of icons.
 
-Source from: [export/iconset.svg](export/iconset.svg) and from root: [iconset.afdesigner](iconset.afdesigner) (Affinity Designer).
+Source from: [export/iconset.svg](export/iconset.svg) and from root: [iconset.afdesign](iconset.afdesign) (Affinity Designer).
 
 #### Demo here: [https://ctlcltd.github.io/iconset/demo.html](https://ctlcltd.github.io/iconset/demo.html)
 
