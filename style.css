@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'iconset';
   src:
-    url('fonts/iconset.woff2?dg97pc') format('woff2'),
-    url('fonts/iconset.woff?dg97pc') format('woff'),
-    url('fonts/iconset.ttf?dg97pc') format('truetype'),
-    url('fonts/iconset.svg?dg97pc#iconset') format('svg');
+    url('fonts/iconset.woff2?xowbq9') format('woff2'),
+    url('fonts/iconset.woff?xowbq9') format('woff'),
+    url('fonts/iconset.ttf?xowbq9') format('truetype'),
+    url('fonts/iconset.svg?xowbq9#iconset') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -288,46 +288,4 @@
 }
 .icon-audio:before {
   content: "\e955";
-}
-.icon-facebook:before {
-  content: "\e956";
-}
-.icon-github:before {
-  content: "\e957";
-}
-.icon-google-hangout:before {
-  content: "\e958";
-}
-.icon-google-plus:before {
-  content: "\e959";
-}
-.icon-instagram:before {
-  content: "\e95a";
-}
-.icon-linkedin:before {
-  content: "\e95b";
-}
-.icon-messenger:before {
-  content: "\e95c";
-}
-.icon-skype:before {
-  content: "\e95d";
-}
-.icon-telegram:before {
-  content: "\e95e";
-}
-.icon-twitter:before {
-  content: "\e95f";
-}
-.icon-whatsapp:before {
-  content: "\e960";
-}
-.icon-wordpress:before {
-  content: "\e961";
-}
-.icon-youtube:before {
-  content: "\e962";
-}
-.icon-ex:before {
-  content: "\e964";
 }

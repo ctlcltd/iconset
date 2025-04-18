@@ -1,23 +1,18 @@
 # iconset
 
-Set of icons.
+Set of web icons.
 
-Source from: [export/iconset.svg](export/iconset.svg) and from root: [iconset.afdesign](iconset.afdesign) (Affinity Designer).
+Source SVG: [iconset.svg](iconset.svg)
+Source Affinity Designer: [iconset.afdesign](iconset.afdesign)
 
-#### Demo here: [https://ctlcltd.github.io/iconset/demo.html](https://ctlcltd.github.io/iconset/demo.html)
+**Demo here:** [https://ctlcltd.github.io/iconset/demo.html](https://ctlcltd.github.io/iconset/demo.html)
 
 ![iconset](screenshot.png)
 
-To generate the font use [IcoMoon](https://icomoon.io/app), file: [iconset.json](iconset.json).
-
- 
-
-## Contributing
-
-You can open [issues](https://github.com/ctlcltd/iconset/issues) to report bug, request features or send a [Pull Request](https://github.com/ctlcltd/iconset/pulls).
+To generate the font use [IcoMoon](https://icomoon.app/) with file: [iconset.json](iconset.json)
 
 
 ## License
 
-[MIT License](LICENSE).
+[MIT License](LICENSE)
 
